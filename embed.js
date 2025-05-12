@@ -2,8 +2,8 @@
   // Create container div
   const chatContainer = document.createElement('div');
   chatContainer.id = 'afi-chat-widget';
-  chatContainer.style.width = '100%';
-  chatContainer.style.height = '600px';
+  // chatContainer.style.width = '100%';
+  // chatContainer.style.height = '600px';
   document.currentScript.parentNode.insertBefore(chatContainer, document.currentScript);
 
   // Load React app
