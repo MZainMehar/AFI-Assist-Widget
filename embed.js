@@ -8,13 +8,13 @@
 
   // Load React app
   const script = document.createElement('script');
-  script.src = 'https://yourdomain.com/dist/assets/index-CovkAYca.js'; // Update with your actual URL
+  script.src = 'https://regal-cupcake-8f8020.netlify.app/dist/assets/index-CovkAYca.js'; // Update with your actual URL
   script.crossOrigin = '';
   document.body.appendChild(script);
   
   // Load CSS
   const link = document.createElement('link');
-  link.href = 'https://yourdomain.com/dist/assets/index-YhR4LCeD.css'; // Update with your actual URL
+  link.href = 'https://regal-cupcake-8f8020.netlify.app/dist/assets/index-YhR4LCeD.css'; // Update with your actual URL
   link.rel = 'stylesheet';
   document.head.appendChild(link);
 })();
